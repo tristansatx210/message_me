@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.4.0
 
 * System dependencies
 
@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* This Web App is focused on two features...Semantic UI and Action Cable
